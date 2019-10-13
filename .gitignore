@@ -1,0 +1,25 @@
+# IDE artifacts
+.idea/
+.vscode/
+
+# Python artifacts
+__pycache__
+*.pyc
+pyvirt/
+
+# NPM
+node_modules/
+
+# Github Pages artifacts
+_site/
+Gemfile.lock
+
+# Other stuff
+.deploy/
+private/
+uploaded/
+*.log
+
+build.bat
+createSprites.bat 
+*.orig 
